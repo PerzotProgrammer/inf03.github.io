@@ -35,5 +35,7 @@
 29/: Zadanie 10 2024 Czerwiec (Lato) <a href="./29/egzamin.pdf" target="_blank">PDF</a> <a href="./29/pliki10.zip" download="">pliki10.zip</a><br>
 30/: Zadanie 11 2024 Czerwiec (Lato) <a href="./30/egzamin.pdf" target="_blank">PDF</a> <a href="./30/pliki11.zip" download="">pliki11.zip</a><br>
 31/: Zadanie 12 2024 Czerwiec (Lato) <a href="./31/egzamin.pdf" target="_blank">PDF</a> <a href="./31/pliki12.zip" download="">pliki12.zip</a><br>
-<!-- źródło: https://github.com/Chr1skyy/Egzamin-Zawodowy-E14-EE09-INF03/tree/main/inf03 -->
-<!-- źródło: https://www.praktycznyegzamin.pl/inf03ee09e14/praktyka/ -->
+
+
+źródło: https://github.com/Chr1skyy/Egzamin-Zawodowy-E14-EE09-INF03/tree/main/inf03
+źródło: https://www.praktycznyegzamin.pl/inf03ee09e14/praktyka/
