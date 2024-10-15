@@ -44,3 +44,4 @@
 <br><br>
 <b>źródło: https://github.com/Chr1skyy/Egzamin-Zawodowy-E14-EE09-INF03/tree/main/inf03</b>
 <br><b>źródło: https://www.praktycznyegzamin.pl/inf03ee09e14/praktyka/</b>
+<br><b>źródło: https://www.testy.egzaminzawodowy.info/technik-informatyk-arkusze-2019</b>
