@@ -1,0 +1,33 @@
+#main {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: #E0E0E0;
+}
+
+#header {
+    font-size: xx-large;
+}
+
+#timer {
+    margin: 50px;
+}
+
+.section {
+    border: 2px solid #E0E0E0;
+    width: 50vw;
+    margin: 20px auto;
+}
+
+a {
+    color: #BB86FC;
+}
+
+a:hover {
+    color: aqua
+}
+
